@@ -1,0 +1,164 @@
+
+<!-- saved from url=(0032)http://127.0.0.1:5500/index.html -->
+<html lang="en" class="wf-roboto-n3-active wf-roboto-n4-active wf-roboto-n5-active wf-active"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="./Air Jordan_files/unsemantic-grid-responsive-tablet.css">
+    <link href="./Air Jordan_files/css2" rel="stylesheet">
+    <link href="./Air Jordan_files/css2(1)" rel="stylesheet">
+    <link rel="stylesheet" href="./Air Jordan_files/font-awesome.min.css">
+    <link rel="stylesheet" href="./Air Jordan_files/fontawesome.min.css">
+    <link rel="stylesheet" href="./Air Jordan_files/html5reset.css">
+    <link rel="stylesheet" href="./Air Jordan_files/style.css">
+    <link rel="stylesheet" href="./Air Jordan_files/fonts.css">
+
+    <title>Air Jordan</title>
+  <link rel="stylesheet" href="./Air Jordan_files/css" media="all"><link rel="stylesheet" href="./Air Jordan_files/css" media="all"><style data-styled="" data-styled-version="4.4.1"></style></head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <div class="grid-container">
+          <div class="grid-5">
+            <div class="logo">
+              <img src="./Air Jordan_files/the-bigtanknike.png" alt="logo">
+            </div>
+          </div>
+          <div class="grid-50">
+            <ul class="navigation">
+              <li><a href="http://127.0.0.1:5500/index.html#">men</a></li>
+              <li><a href="http://127.0.0.1:5500/index.html#">women</a></li>
+              <li><a href="http://127.0.0.1:5500/index.html#">kids</a></li>
+              <li><a href="http://127.0.0.1:5500/index.html#">customize</a></li>
+              <li><a href="http://127.0.0.1:5500/index.html#">favourites</a></li>
+            </ul>
+          </div>
+          <div class="prefix-15 grid-30">
+            <ul class="seperate">
+              <li>
+                <a href="http://127.0.0.1:5500/index.html#"><i class="fa fa-search"></i></a>
+              </li>
+              <li>
+                <a href="http://127.0.0.1:5500/index.html#"><i class="fa fa-bars"></i><span>Menu </span></a>
+              </li>
+              <li>
+                <a href="http://127.0.0.1:5500/index.html#">my cart<span>1</span></a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </header>
+
+      <section>
+        <div class="grid-container">
+          <div class="grid-60">
+            <div class="display">
+              <h1>air<br>jordan</h1>
+              <h2>6 Rings</h2>
+              <img src="./Air Jordan_files/jordan-6-rings-mens-shoe-PFKJm7-removebg-preview.png" alt="sneakers">
+            </div>
+          </div>
+          <div class="prefix-5 grid-35">
+            <div class="details">
+              <div class="brand">
+                <div class="brand-name">
+                  <h1>nike</h1>
+                </div>
+                <div class="rating">
+                  <ul>
+                    <li><i class="fa fa-star"></i></li>
+                    <li><i class="fa fa-star"></i></li>
+                    <li><i class="fa fa-star"></i></li>
+                    <li><i class="fa fa-star"></i></li>
+                    <li><i class="fa fa-star"></i></li>
+                  </ul>
+                </div>
+              </div>
+              <div class="product-details">
+                <div class="category">
+                  <a href="http://127.0.0.1:5500/index.html#">men's shoe</a>
+                </div>
+                <div class="product-name">
+                  <h2>air jordan 6 rings</h2>
+                </div>
+                <div class="product-description">
+                  <p>
+                    Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+                    Mollitia a veniam rerum s it est voluptate natus sunt,
+                    consectetur sint ea!
+                  </p>
+                  <ul>
+                    <li>Shown: White/Orange/Black/Hyper Royal</li>
+                    <li>Style:1333424-123</li>
+                  </ul>
+                  <a href="http://127.0.0.1:5500/index.html#">Read more</a>
+                </div>
+                <div class="product-size-select">
+                  <i class="fa fa-angle-down"></i>
+                  <select name="" id="">
+                    <option value="Select">Size</option>
+                    <option value="39">39</option>
+                    <option value="41">41</option>
+                    <option value="44">44</option>
+                  </select>
+                </div>
+                <div class="product-btn-price">
+                  <button class="add-to-cart">add to cart</button>
+                  <h1 class="price">N75000</h1>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <div class="foot">
+        <div class="grid-container">
+          <div class="grid-60">
+            <img src="./Air Jordan_files/the-bigtanknike.png" alt="nike logo">
+          </div>
+          <div class="grid-40">
+            <h1>01</h1>
+          </div>
+        </div>
+      </div>
+    </div>
+  <!-- Code injected by live-server -->
+<script type="text/javascript">
+	// <![CDATA[  <-- For SVG support
+	if ('WebSocket' in window) {
+		(function () {
+			function refreshCSS() {
+				var sheets = [].slice.call(document.getElementsByTagName("link"));
+				var head = document.getElementsByTagName("head")[0];
+				for (var i = 0; i < sheets.length; ++i) {
+					var elem = sheets[i];
+					var parent = elem.parentElement || head;
+					parent.removeChild(elem);
+					var rel = elem.rel;
+					if (elem.href && typeof rel != "string" || rel.length == 0 || rel.toLowerCase() == "stylesheet") {
+						var url = elem.href.replace(/(&|\?)_cacheOverride=\d+/, '');
+						elem.href = url + (url.indexOf('?') >= 0 ? '&' : '?') + '_cacheOverride=' + (new Date().valueOf());
+					}
+					parent.appendChild(elem);
+				}
+			}
+			var protocol = window.location.protocol === 'http:' ? 'ws://' : 'wss://';
+			var address = protocol + window.location.host + window.location.pathname + '/ws';
+			var socket = new WebSocket(address);
+			socket.onmessage = function (msg) {
+				if (msg.data == 'reload') window.location.reload();
+				else if (msg.data == 'refreshcss') refreshCSS();
+			};
+			if (sessionStorage && !sessionStorage.getItem('IsThisFirstTime_Log_From_LiveServer')) {
+				console.log('Live reload enabled.');
+				sessionStorage.setItem('IsThisFirstTime_Log_From_LiveServer', true);
+			}
+		})();
+	}
+	else {
+		console.error('Upgrade your browser. This Browser is NOT supported WebSocket for Live-Reloading.');
+	}
+	// ]]>
+</script>
+
+</body><div class="notranslate" style="position: absolute; top: 0; right:0;" id="vd-root-d19608294"></div></html>
